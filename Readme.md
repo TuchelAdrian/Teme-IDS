@@ -1,4 +1,2 @@
 **Lab IDS**
-Tuchel Adrian-Constantin
-Mincu Ionut-Alexandru
-Grupa 10LF373
+Tuchel Adrian-Constantin si Mincu Ionut-Alexandru / Grupa 10LF373
